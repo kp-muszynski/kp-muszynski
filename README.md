@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a home budget app in Python
-- 🌱 I’m currently learning Django
-- ⚡ Fun fact: Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast.
+- 🌱 I’m learning Django and FastAPI
+- ⚡ Fun fact: Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast
 <!--
 **kp-muszynski/kp-muszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
