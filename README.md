@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I like programming in R, Python and SAS 4GL
-- Know some SQL, HTML, CSS and JavaScript
+- Know SQL and a bit of HTML, CSS and JavaScript
 - Interested in data science - I broaded my knowledge by attending courses (currently machine learning)
 - Next on the list are Django and FastAPI, might lead to a full-stack website 😄
 - Working on a home budget app
