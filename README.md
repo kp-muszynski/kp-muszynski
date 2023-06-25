@@ -3,7 +3,7 @@
 - I like programming in R, Python and SAS 4GL
 - Know some of SQL, HTML, CSS and JavaScript
 - Interested in data science - I broaded my knowledge by attending courses (currently machine learning)
-- Next on the list are Django and FastAPI, might lead to a full stack website 😄
+- Next on the list are Django and FastAPI, might lead to a full-stack website 😄
 - Working on a home budget app
 - ⚡ Fun fact: Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast!
 <!--
