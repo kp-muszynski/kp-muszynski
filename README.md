@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-- I like programming in R, Python and SAS 4GL
-- Know SQL and a bit of HTML, CSS and JavaScript
-- Interested in data science - I broaded my knowledge by attending courses (currently machine learning)
-- Next on the list are Django and FastAPI, might lead to a full-stack website 😄
-- Working on a home budget app
-- ⚡ Fun fact: Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast!
+Some facts about me:
+- I like programming in R, Python and SAS 4GL;
+- Know SQL and a bit of HTML, CSS and JavaScript;
+- Interested in data science - I broaded my knowledge by attending courses (currently machine learning);
+- Learning new skills and frameworks. Next on the list are Django and FastAPI, AWS and (Py)Spark; 😄
+- Working on a home budget app and other mini projects; 📂
+- ⚡ Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast!
+
+
 <!--
 **kp-muszynski/kp-muszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
