@@ -3,9 +3,7 @@
 Some facts about me:
 - I like programming in R, Python and SAS 4GL;
 - Know SQL and a bit of HTML, CSS and JavaScript;
-- Interested in data science - I broaded my knowledge by attending courses;
-- Learning new skills and frameworks. Recently got hold of AWS basics; 😄
-- Working on a home budget app and other mini projects; 📂
+- Interested in data science and business analysis - I broaded my knowledge by attending courses;
 - ⚡ Apart from programming for fun and reading fantasy and sci-fi literature, I'm a craft beer enthusiast!
 
 
